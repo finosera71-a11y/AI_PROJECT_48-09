@@ -1,9 +1,8 @@
-
 """
 Search Algorithm: Maze Solver
 Algoritma: Breadth-First Search (BFS) dan Depth-First Search (DFS).
 """
-int7
+
 from collections import deque
 
 MAZE = [
