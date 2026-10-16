@@ -30,7 +30,7 @@ Catatan: hasil merupakan indikasi awal, bukan diagnosis teknisi.
 ![Screenshot pengujian](screenshoot/01Running.png)
 
 ## Kesimpulan
-Sistem berhasil menerapkan aturan IF-ELSE untuk mendiagnosis kemungkinan gangguan komputer berdasarkan jawaban pengguna dan memberikan rekomendasi penanganan.
+Sistem berhasil menerapkan aturan IF-THEN untuk mendiagnosis kemungkinan gangguan komputer berdasarkan jawaban pengguna dan memberikan rekomendasi penanganan.
 
 ## Pengembangan
 Program dapat dikembangkan dengan menambah aturan, gejala, dan basis pengetahuan yang lebih luas.
