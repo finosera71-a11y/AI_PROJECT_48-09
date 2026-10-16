@@ -1,7 +1,7 @@
 # Expert System — Computer Troubleshooting
 
 ## Deskripsi
-Program sistem pakar berbasis aturan IF-ELSE untuk memberikan indikasi awal gangguan komputer berdasarkan gejala yang dimasukkan pengguna.
+Program sistem pakar berbasis aturan IF-THEN untuk memberikan indikasi awal gangguan komputer berdasarkan gejala yang dimasukkan pengguna.
 
 ## Teknologi
 - Python
